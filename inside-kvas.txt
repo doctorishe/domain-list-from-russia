@@ -2077,3 +2077,6 @@ typekit.net
 umamusume.com
 wattpad.com
 windows.net
+virustotal.com
+elpais.com
+bancaynegocios.com
