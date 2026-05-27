@@ -2126,3 +2126,9 @@ flutter.dev
 notebooklm.google
 slack.com
 bsky.social
+github.io
+ingest.us.sentry.io
+logr-ingest.com
+bunny.net
+bunnyinfra.net
+b-cdn.net
