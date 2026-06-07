@@ -2132,3 +2132,6 @@ logr-ingest.com
 bunny.net
 bunnyinfra.net
 b-cdn.net
+razer.com
+razerapi.com
+razersynapse.com
