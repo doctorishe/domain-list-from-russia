@@ -2135,3 +2135,5 @@ b-cdn.net
 razer.com
 razerapi.com
 razersynapse.com
+telegram.me
+tekegram.org
