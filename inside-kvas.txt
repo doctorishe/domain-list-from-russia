@@ -2137,3 +2137,23 @@ razerapi.com
 razersynapse.com
 telegram.me
 tekegram.org
+kvas add anthropic.com Y
+kvas add clau.de Y
+kvas add claude.ai Y
+kvas add claude.app Y
+kvas add claude.com Y
+kvas add claude.new Y
+kvas add claude.site Y
+kvas add claudemcpclient.com Y
+kvas add claudemcpcontent.com Y
+kvas add claudepages.dev Y
+kvas add claudestudio.com Y
+kvas add claudeusercontent.com Y
+kvas add datadoghq.com Y
+kvas add intercom.io Y
+kvas add intercomassets.com Y
+kvas add intercomcdn.com Y
+kvas add modelcontextprotocol.com Y
+kvas add modelcontextprotocol.io Y
+kvas add modelcontextprotocol.net Y
+kvas add modelcontextprotocol.org Y
